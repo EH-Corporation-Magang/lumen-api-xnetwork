@@ -15,6 +15,8 @@ $router->get('/', function () {
     return redirect('/docs');
 });
 
+asjkdhasdkjhas;
+
 // auth route
 $router->post("/register", "AuthController@register");
 $router->post("/login", "AuthController@login");
